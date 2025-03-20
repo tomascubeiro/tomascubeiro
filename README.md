@@ -1,6 +1,3 @@
-# Tomás Cubeiro
-
-## 📊 GitHub Stats
 <div align="center">
   <table>
     <tr>
