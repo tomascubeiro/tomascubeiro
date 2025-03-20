@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tomascubeiro&show_icons=true&theme=github_dark&icon_color=2266BB" alt="Tomás's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascubeiro&layout=compact&theme=github_dark" alt="Tomás's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascubeiro&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## 🔧 <span style="color:#4A90E2">Technologies & Tools</span>
