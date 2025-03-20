@@ -1,13 +1,17 @@
-# 🖥️ Tomás Cubeiro
+# Tomás Cubeiro
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomascubeiro&show_icons=true&theme=dark" alt="Tomás's GitHub Stats"/>
-</div>
-
-## 🚀 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascubeiro&layout=compact&theme=dark" alt="Tomás's Most Used Languages"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=tomascubeiro&show_icons=true&theme=dark" alt="Tomás's GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascubeiro&layout=compact&theme=dark" alt="Tomás's Most Used Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🔧 Technologies & Tools
