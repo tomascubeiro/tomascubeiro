@@ -1,17 +1,10 @@
+## 📊 <span style="color:#4A90E2">GitHub Stats</span>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tomascubeiro&show_icons=true&theme=dark" alt="Tomás's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascubeiro&layout=compact&theme=dark" alt="Tomás's Most Used Languages"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=tomascubeiro&show_icons=true&theme=tokyonight&icon_color=4A90E2" alt="Tomás's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomascubeiro&layout=compact&theme=tokyonight" alt="Tomás's Most Used Languages" />
 </div>
 
-## 🔧 Technologies & Tools
+## 🔧 <span style="color:#4A90E2">Technologies & Tools</span>
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -23,7 +16,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## 📫 Connect with me
+## 📫 <span style="color:#4A90E2">Connect with me</span>
 <p align="center">
   <a href="https://www.linkedin.com/in/tom%C3%A1s-cubeiro-811649267/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
